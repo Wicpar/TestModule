@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="SinkingSimulator2Base-v0.0.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../SinkingSimulator2lwjgl/out/artifacts/SinkingSimulator2lwjgl_jar/SinkingSimulator2lwjgl.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../SinkingSimulator2lwjgl/src" />
+    </SOURCES>
+  </library>
+</component>
